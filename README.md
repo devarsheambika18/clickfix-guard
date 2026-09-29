@@ -73,4 +73,4 @@ These commands may download or execute malicious content.
 ClickFix Guard detects suspicious commands commonly associated
 with ClickFix-style attacks and displays a high-risk warning.
 
-![ClickFix Guard Detection Demo](screenshots-clickfix-detection-demo.png)
+![ClickFix Guard Detection Demo](screenshots/clickfix-detection-demo.png)
