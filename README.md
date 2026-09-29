@@ -67,3 +67,10 @@ These commands may download or execute malicious content.
 4. If a suspicious pattern is detected, a warning is generated.
 5. The warning displays the detected risk and matched pattern.
 6. The user can review the warning before continuing.
+
+## Detection Demo
+
+ClickFix Guard detects suspicious commands commonly associated
+with ClickFix-style attacks and displays a high-risk warning.
+
+![ClickFix Guard Detection Demo](screenshots/clickfix-detection-demo.png)
