@@ -1,0 +1,1 @@
+document.getElementById("status").textContent = "Status: Active on this browser";
