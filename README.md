@@ -75,8 +75,3 @@ with ClickFix-style attacks and displays a high-risk warning.
 
 ![ClickFix Guard Detection Demo](screenshots/clickfix-detection-demo.png)
 
-## 🎥 Demo
-
-Watch the ClickFix Guard demonstration:
-
-[▶️ ClickFix Guard Demo](YOUR_RELEASE_VIDEO_LINK)
