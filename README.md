@@ -41,7 +41,7 @@ These commands may download or execute malicious content.
 
 
 ## ⚙️ How It Works
-text
+
         User visits a webpage
                 ↓
         ClickFix Guard scans
