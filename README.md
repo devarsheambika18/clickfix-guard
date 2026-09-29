@@ -39,9 +39,9 @@ These commands may download or execute malicious content.
   - Focuses on command-paste techniques commonly associated with ClickFix-style attacks.
 
 
-
 ## ⚙️ How It Works
 
+```
         User visits a webpage
                 ↓
         ClickFix Guard scans
@@ -57,3 +57,13 @@ These commands may download or execute malicious content.
          ↓
    User decides what
        to do next
+```
+
+### Detection Process
+
+1. The user opens a webpage.
+2. ClickFix Guard scans relevant page content.
+3. The extension checks the content against predefined suspicious patterns.
+4. If a suspicious pattern is detected, a warning is generated.
+5. The warning displays the detected risk and matched pattern.
+6. The user can review the warning before continuing.
